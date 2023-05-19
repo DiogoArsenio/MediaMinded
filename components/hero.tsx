@@ -36,13 +36,13 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="btn text-gray-100 bg-transparent border border-gray-100 hover:text-gray-800 hover:bg-gray-100 w-full mb-4 sm:w-auto sm:mb-0"
-                  href="#"
+                  href="#contact"
                 >
                   Talk with us
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-gray-100 hover:underline w-full sm:w-auto sm:ml-4" href="#0">
+                <a className="btn text-gray-100 hover:underline w-full sm:w-auto sm:ml-4" href="#services">
                   Learn more
                 </a>
               </div>

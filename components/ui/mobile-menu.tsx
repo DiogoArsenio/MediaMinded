@@ -62,7 +62,7 @@ export default function MobileMenu() {
         <ul className="bg-gray-800 px-4 py-2">
           <li>
             <Link
-              href="/#"
+              href="/#services"
               className="w-full justify-center font-medium hover:font-bold text-gray-100 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
               onClick={() => setMobileNavOpen(false)}
             >
@@ -71,16 +71,16 @@ export default function MobileMenu() {
           </li>
           <li>
             <Link
-              href="/#"
+              href="/#process"
               className="font-medium justify-center w-full hover:font-bold text-gray-100 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
               onClick={() => setMobileNavOpen(false)}
             >
-              About
+              Process
             </Link>
           </li>
           <li>
             <Link
-              href="/#"
+              href="/#contact"
               className="btn-sm w-full transition duration-150 ease-in-out inline-flex text-gray-800 bg-gray-100 hover:bg-gray-800 hover:text-gray-100"
               onClick={() => setMobileNavOpen(false)}
             >

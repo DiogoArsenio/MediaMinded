@@ -12,7 +12,7 @@ export default function Footer() {
             <div className="md:col-span-4 lg:col-span-5">
               <div className="mb-2">
                 {/* Logo */}
-                <Link href="/" className="flex flex-row text-gray-100 items-center text-xl font-bold" aria-label="Cruip">
+                <Link href="#home" className="flex flex-row text-gray-100 items-center text-xl font-bold" aria-label="MediaMinded">
                   <svg
                     className="w-8 h-8 mr-3 fill-current text-gray-100"
                     width="64"
@@ -21,40 +21,23 @@ export default function Footer() {
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
                   >
-                    <path
-                      fill-rule="evenodd"
-                      clip-rule="evenodd"
-                      d="M56.12 48.01C60.56 42.91 63.26 36.19 63.26 28.82C63.26 12.91 50.69 0 35.18 0C10.8435 0 8.31435 18.5719 7.37087 25.5001C7.30134 26.0107 7.24042 26.458 7.18002 26.83C7.02002 27.88 6.67002 28.89 6.15002 29.81L0.250021 40.06C-0.329979 41.09 0.120021 42.39 1.22002 42.83L5.30002 44.46C6.38002 44.89 7.08002 45.92 7.08002 47.08L8.63002 58.01C8.63002 60.17 10.35 61.92 12.51 61.95C13.1521 61.9573 13.8192 61.9356 14.496 61.9137C18.478 61.7845 22.7913 61.6445 24.27 67.32C24.86 69.59 27.25 70.88 29.47 70.12L53.34 61.98C54.63 61.54 55.5 60.33 55.5 58.96V49.63C55.5 49.03 55.73 48.46 56.12 48.01ZM23.45 12.73C25.09 9.35 28.58 7.81 32.37 7.45C33.78 7.32 35.18 7.53 36.53 7.94C37.1909 8.14147 37.885 8.32732 38.5888 8.51577C41.8672 9.39366 45.3563 10.3279 46.69 13.16C47.49 14.85 48.88 16.14 50.49 17.03C60.67 22.69 52.57 33.62 41.54 28.5C39.1469 27.0266 36.3706 27.5018 33.6545 27.9667C30.5823 28.4926 27.587 29.0054 25.31 26.67C24.6336 25.3862 23.2162 25.0383 21.7971 24.6899C20.1322 24.2812 18.4651 23.8719 17.99 21.95C17.34 19.91 18.51 18.32 20.04 17.05C21.46 15.87 22.63 14.41 23.45 12.73Z"
-                    />
+                    <path d="M56.12 48.01C60.56 42.91 63.26 36.19 63.26 28.82C63.26 12.91 50.69 0 35.18 0C10.8435 0 8.31435 18.5719 7.37087 25.5001C7.30134 26.0107 7.24042 26.458 7.18002 26.83C7.02002 27.88 6.67002 28.89 6.15002 29.81L0.250021 40.06C-0.329979 41.09 0.120021 42.39 1.22002 42.83L5.30002 44.46C6.38002 44.89 7.08002 45.92 7.08002 47.08L8.63002 58.01C8.63002 60.17 10.35 61.92 12.51 61.95C13.1521 61.9573 13.8192 61.9356 14.496 61.9137C18.478 61.7845 22.7913 61.6445 24.27 67.32C24.86 69.59 27.25 70.88 29.47 70.12L53.34 61.98C54.63 61.54 55.5 60.33 55.5 58.96V49.63C55.5 49.03 55.73 48.46 56.12 48.01ZM23.45 12.73C25.09 9.35 28.58 7.81 32.37 7.45C33.78 7.32 35.18 7.53 36.53 7.94C37.1909 8.14147 37.885 8.32732 38.5888 8.51577C41.8672 9.39366 45.3563 10.3279 46.69 13.16C47.49 14.85 48.88 16.14 50.49 17.03C60.67 22.69 52.57 33.62 41.54 28.5C39.1469 27.0266 36.3706 27.5018 33.6545 27.9667C30.5823 28.4926 27.587 29.0054 25.31 26.67C24.6336 25.3862 23.2162 25.0383 21.7971 24.6899C20.1322 24.2812 18.4651 23.8719 17.99 21.95C17.34 19.91 18.51 18.32 20.04 17.05C21.46 15.87 22.63 14.41 23.45 12.73Z" />
                   </svg>
                   Media
                   <span className="font-light">Minded</span>
                 </Link>
               </div>
-              <div className="text-gray-400">
-                Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-              </div>
+              <div className="text-gray-400">Elevate Your Social Presence with MediaMinded</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
             <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Products</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Web Studio
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      DynamicBox Flex
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Programming Forms
+                    <Link href="#services" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
+                      Services
                     </Link>
                   </li>
                 </ul>
@@ -62,31 +45,10 @@ export default function Footer() {
 
               {/* 3rd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Nostrud exercitation
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Visual mockups
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Nostrud exercitation
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Visual mockups
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Nostrud exercitation
+                    <Link href="#process" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
+                      Process
                     </Link>
                   </li>
                 </ul>
@@ -94,31 +56,10 @@ export default function Footer() {
 
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Company</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Consectetur adipiscing
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Labore et dolore
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Consectetur adipiscing
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Labore et dolore
-                    </Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                      Consectetur adipiscing
+                    <Link href="#contact" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
+                      Contact us
                     </Link>
                   </li>
                 </ul>
@@ -133,7 +74,7 @@ export default function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-gray-100 bg-gray-800 hover:text-gray-800 hover:bg-gray-100 rounded-full transition duration-150 ease-in-out"
                   aria-label="Twitter"
                 >
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -144,18 +85,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
-                  aria-label="Github"
-                >
-                  <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M16 8.2c-4.4 0-8 3.6-8 8 0 3.5 2.3 6.5 5.5 7.6.4.1.5-.2.5-.4V22c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.3.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8.6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.7-3.7 3.9.3.4.6.9.6 1.6v2.2c0 .2.1.5.6.4 3.2-1.1 5.5-4.1 5.5-7.6-.1-4.4-3.7-8-8.1-8z" />
-                  </svg>
-                </Link>
-              </li>
-              <li className="ml-4">
-                <Link
-                  href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-gray-100 bg-gray-800 hover:text-gray-800 hover:bg-gray-100 rounded-full transition duration-150 ease-in-out"
                   aria-label="Facebook"
                 >
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -166,7 +96,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-gray-100 bg-gray-800 hover:text-gray-800 hover:bg-gray-100 rounded-full transition duration-150 ease-in-out"
                   aria-label="Instagram"
                 >
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -179,7 +109,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-gray-100 bg-gray-800 hover:text-gray-800 hover:bg-gray-100 rounded-full transition duration-150 ease-in-out"
                   aria-label="Linkedin"
                 >
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -190,7 +120,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Cruip.com. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; MediaMinded.com. All rights reserved.</div>
           </div>
         </div>
       </div>

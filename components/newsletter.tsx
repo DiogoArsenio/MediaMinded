@@ -1,46 +1,16 @@
-"use client";
-import React, { useState } from "react";
-
 export default function Newsletter() {
-  const [email, setEmail] = useState<string>("");
-
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-
-    const form = {
-      email,
-    };
-
-    const res = await fetch("/api/submit", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-      body: JSON.stringify(form),
-    });
-
-    const content = res;
-
-    console.log(content);
-
-    alert("Thank you for subscribing! We'll be in touch soon.");
-
-    console.log("form:", form);
-  };
-
   return (
-    <section>
+    <section id="contact">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         {/* CTA box */}
-        <div className="relative bg-purple-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
+        <div className="relative bg-gray-100 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
           {/* Background illustration */}
           <div className="absolute right-0 top-0 -ml-40 pointer-events-none" aria-hidden="true">
             <svg width="238" height="110" fill="none" xmlns="http://www.w3.org/2000/svg">
               <defs>
                 <linearGradient id="illustration-04" x1="369.483" y1="-84.633" x2="139.954" y2="-199.798" gradientUnits="userSpaceOnUse">
-                  <stop stopColor="#fff" stopOpacity=".01" />
-                  <stop offset="1" stopColor="#fff" stopOpacity=".24" />
+                  <stop stopColor="#000" stopOpacity=".01" />
+                  <stop offset="1" stopColor="#000" stopOpacity=".24" />
                 </linearGradient>
               </defs>
               <path
@@ -54,26 +24,23 @@ export default function Newsletter() {
 
           <div className="relative flex flex-col lg:flex-row justify-between items-center">
             {/* CTA content */}
-            <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
-              <h3 className="h3 text-white mb-2">Stay in the loop</h3>
-              <p className="text-purple-200 text-lg">Join our newsletter to get top news before anyone else.</p>
+            <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-3/4">
+              <h3 className="h3 text-gray-800 mb-2">Contact us</h3>
+              <p className="text-gray-400 text-lg">
+                We look forward to connecting with you and discussing how we can help elevate your social media presence. Let's start the conversation and
+                explore the possibilities together!
+              </p>
             </div>
 
             {/* CTA form */}
-            <form onSubmit={handleSubmit} className="w-full lg:w-1/2">
+            <form className="w-full lg:w-1/4">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <input
-                  type="email"
-                  name="Email"
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400"
-                  placeholder="Your best email…"
-                  aria-label="Your best email…"
-                />
-                <button className="btn text-purple-600 bg-purple-100 hover:bg-white shadow" type="submit">
-                  Subscribe
-                </button>
+                <a
+                  className="btn text-gray-800 bg-transparent border border-gray-800 hover:text-gray-100 hover:bg-gray-800 w-full mb-4 sm:w-auto sm:mb-0"
+                  href="mailto:mediamindedpr@gmail.com"
+                >
+                  Contact us
+                </a>
               </div>
               {/* Success message */}
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}
