@@ -33,7 +33,7 @@ export default function DefaultLayout({ children }: { children: React.ReactNode 
 
   return (
     <>
-      <main className="grow">
+      <main className="grow overflow-hidden">
         <PageIllustration />
         {children}
       </main>
