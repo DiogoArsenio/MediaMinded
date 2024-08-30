@@ -1,4 +1,3 @@
-// components/Modal.tsx
 import { FC } from "react";
 
 interface ModalProps {
@@ -16,7 +15,7 @@ const Modal: FC<ModalProps> = ({ isOpen, onClose, content }) => {
         className="bg-white p-4 rounded-lg relative"
         onClick={(e) => e.stopPropagation()} // Prevent click from closing modal
       >
-        {content}
+        <div className="w-[600px] h-[400px] flex justify-center items-center">{content}</div>
         <button onClick={onClose} className="absolute top-2 right-2 text-gray-600 hover:text-gray-900">
           &times;
         </button>
