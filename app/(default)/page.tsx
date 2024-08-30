@@ -22,13 +22,11 @@ const Home: React.FC = () => {
             {/* Left Side - Profile Info */}
             <div className="flex flex-col justify-center space-y-6 md:space-y-8">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-light text-gray-900 leading-tight animate-fadeIn">
-                Hi, I'm <span className="font-semibold">Sara Jacinto</span>
-                <br />
+                Hi, I'm <span className="font-semibold">Sara Jacinto</span>,<br />
+                <span className="text-3xl md:text-4xl lg:text-5xl font-light text-gray-900 animate-fadeIn">
+                  a designer specializing in graphic and interior design.
+                </span>
               </h1>
-              <p className="text-lg md:text-xl text-gray-600 max-w-md animate-fadeIn delay-200">
-                A passionate designer specializing in graphic and interior design. My mission is to bring imagination to life through captivating visuals and
-                thoughtfully curated environments.
-              </p>
               <div className="space-x-4 animate-fadeIn delay-400">
                 <a
                   href="#contact"
