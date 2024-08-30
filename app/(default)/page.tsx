@@ -22,11 +22,9 @@ const Home: React.FC = () => {
             {/* Left Side - Profile Info */}
             <div className="flex flex-col justify-center space-y-6 md:space-y-8">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-light text-gray-900 leading-tight animate-fadeIn">
-                Hi, I'm <span className="font-semibold">Sara Jacinto</span>,<br />a Creative Designer.
+                Hi, I'm <span className="font-semibold">Sara Jacinto</span>,<br />a passionate designer.
               </h1>
-              <p className="text-lg md:text-xl text-gray-600 max-w-md animate-fadeIn delay-200">
-                I specialize in crafting clean, elegant, and functional designs that resonate with users and make brands shine.
-              </p>
+
               <div className="space-x-4 animate-fadeIn delay-400">
                 <a
                   href="#contact"
@@ -53,8 +51,9 @@ const Home: React.FC = () => {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl font-light text-gray-900 mb-8 animate-fadeIn">About Me</h2>
           <p className="text-lg leading-relaxed text-gray-600 animate-fadeIn delay-200">
-            I'm Sara Jacinto, a creative designer with a passion for minimalist, user-centric design. With experience in UI/UX, branding, visual design, and
-            interior design, I aim to craft beautiful and functional digital and physical experiences that speak to the audience.
+            Hi! I'm Sara, a passionate designer specializing in graphic and interior design. My mission is to bring imagination to life through captivating
+            visuals and thoughtfully curated environments. From creating compelling brand identities to designing harmonious interiors, I am dedicated to
+            transforming ideas into memorable and impactful experiences. Let’s collaborate and bring your design visions to life!
           </p>
         </div>
       </section>
