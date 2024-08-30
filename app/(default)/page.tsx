@@ -1,6 +1,18 @@
 import Sara from "@/public/images/sara.jpg";
 
-export default function Home() {
+// Define props types for SkillItem and ContactItem components
+interface SkillItemProps {
+  skill: string;
+}
+
+interface ContactItemProps {
+  href: string;
+  text: string;
+  external?: boolean;
+}
+
+// Define the Home component
+const Home: React.FC = () => {
   return (
     <div className="bg-gray-50 text-gray-800 font-sans">
       {/* Hero Section */}
@@ -81,34 +93,38 @@ export default function Home() {
             I'm always open to discuss design projects or potential collaborations. Feel free to reach out via any of the following:
           </p>
           <div className="space-y-4 text-lg text-gray-700 animate-fadeIn delay-400">
-            <ContactItem href="mailto:sarajacintodesign@gmail.com" text="sarajacintodesign@gmail.com" external={false} />
+            <ContactItem href="mailto:sarajacintodesign@gmail.com" text="sarajacintodesign@gmail.com" />
             <ContactItem href="https://www.linkedin.com/in/sara-jacinto-2112741b1/" text="linkedin.com/in/sara-jacinto" external />
           </div>
         </div>
       </section>
     </div>
   );
-}
+};
 
-function SkillItem({ skill }) {
+// Define the SkillItem component
+const SkillItem: React.FC<SkillItemProps> = ({ skill }) => {
   return (
     <div className="flex flex-col items-center">
       <span className="text-lg font-medium text-gray-700 hover:text-gray-900 transition duration-300">{skill}</span>
     </div>
   );
-}
+};
 
-function ContactItem({ href, text, external }) {
+// Define the ContactItem component
+const ContactItem: React.FC<ContactItemProps> = ({ href, text, external }) => {
   return (
     <div className="flex items-center justify-center space-x-4">
       <a
         href={href}
-        target={external ? "_blank" : ""}
-        rel={external ? "noopener noreferrer" : ""}
+        target={external ? "_blank" : undefined}
+        rel={external ? "noopener noreferrer" : undefined}
         className="font-medium text-gray-700 hover:text-gray-900 hover:underline transition duration-300"
       >
         {text}
       </a>
     </div>
   );
-}
+};
+
+export default Home;
