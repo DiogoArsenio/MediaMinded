@@ -51,7 +51,7 @@ const Home: React.FC = () => {
       {/* About Me Section */}
       <section id="about" className="py-20 bg-gray-50">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-4xl font-light text-gray-900 mb-8 animate-fadeIn">About Me</h2>
+          <h2 className="text-4xl font-semibold text-gray-900 mb-8 animate-fadeIn">About Me</h2>
           <p className="text-lg leading-relaxed text-gray-600 animate-fadeIn delay-200">
             Hi! I'm Sara, a passionate designer specializing in graphic and interior design. My mission is to bring imagination to life through captivating
             visuals and thoughtfully curated environments. From creating compelling brand identities to designing harmonious interiors, I am dedicated to
@@ -63,7 +63,7 @@ const Home: React.FC = () => {
       {/* Skills Section */}
       <section id="skills" className="py-20 bg-white">
         <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-4xl font-light text-gray-900 mb-12 animate-fadeIn">My Skills</h2>
+          <h2 className="text-4xl font-semibold text-gray-900 mb-12 animate-fadeIn">My Skills</h2>
           <div className="flex justify-center flex-wrap gap-12 animate-fadeIn delay-200">
             {/* UI/UX Design Skills */}
             <SkillItem skill="Figma" />
@@ -89,7 +89,7 @@ const Home: React.FC = () => {
       {/* Contact Section */}
       <section id="contact" className="py-20 bg-gray-50">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-4xl font-light text-gray-900 mb-8 animate-fadeIn">Get in Touch</h2>
+          <h2 className="text-4xl text-gray-900 font-semibold mb-8 animate-fadeIn">Get in Touch</h2>
           <p className="text-lg text-gray-600 mb-4 animate-fadeIn delay-200">
             I'm always open to discuss design projects or potential collaborations. Feel free to reach out via any of the following:
           </p>
