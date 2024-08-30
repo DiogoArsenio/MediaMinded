@@ -14,7 +14,7 @@ interface ContactItemProps {
 // Define the Home component
 const Home: React.FC = () => {
   return (
-    <div className="bg-gray-50 text-gray-800 font-sans">
+    <div className="bg-gray-50 pt-24 text-gray-800 font-sans">
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center bg-gray-50">
         <div className="max-w-6xl mx-auto px-6 md:px-12 lg:px-24">
@@ -36,12 +36,12 @@ const Home: React.FC = () => {
                 </a>
               </div>
             </div>
-            {/* Right Side - Image */}
+            {/* Right Side - Full Height Image */}
             <div className="relative flex justify-center md:justify-end animate-fadeIn delay-600">
               <img
                 src={Sara.src}
                 alt="Profile Picture"
-                className="w-72 object-cover object-top h-72 rounded-full border-4 border-gray-200 shadow-lg transition-transform duration-500 hover:scale-105"
+                className="object-cover object-top h-full max-h-[80vh] rounded-lg border-4 border-gray-200 shadow-lg transition-transform duration-500 hover:scale-105"
               />
             </div>
           </div>

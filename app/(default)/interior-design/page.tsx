@@ -55,7 +55,7 @@ export default function GraphicDesign() {
   };
 
   return (
-    <div className="bg-gray-50 text-gray-800 font-sans min-h-screen py-12">
+    <div className="bg-gray-50 text-gray-800 font-sans min-h-screen py-24">
       <div className="max-w-6xl mx-auto px-6 md:px-12 lg:px-24">
         <h1 className="text-4xl font-light text-gray-900 mb-12 text-center">Interior Design Portfolio</h1>
         {/* Masonry Layout using CSS Columns */}
