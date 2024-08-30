@@ -25,7 +25,7 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html className="scroll-smooth" lang="en">
-      <body className={`${inter.variable} ${architects_daughter.variable} font-nohemi antialiased bg-gray-900 text-gray-200 tracking-tight overflow-x-hidden`}>
+      <body className={`${inter.variable} ${architects_daughter.variable} font-nohemi antialiased`}>
         <div className="flex flex-col z-10 min-h-screen">
           <div
             id="blob"

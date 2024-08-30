@@ -1,21 +1,31 @@
 {
   "pages": {
-    "/(default)/layout": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/(default)/layout.css",
-      "static/chunks/app/(default)/layout.js"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/(default)/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(default)/page.js"
     ],
-    "/layout": [
+    "/(default)/graphic-design/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/app/(default)/graphic-design/page.js"
+    ],
+    "/(default)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(default)/layout.css",
+      "static/chunks/app/(default)/layout.js"
+    ],
+    "/(default)/interior-design/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(default)/interior-design/page.js"
     ]
   }
 }

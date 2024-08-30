@@ -742,6 +742,230 @@
         "async": false
       }
     },
+    "(app-client)/./components/ui/header.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/header.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/header.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/header.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./public/images/sara.jpg": {
+      "*": {
+        "id": "(sc_client)/./public/images/sara.jpg",
+        "name": "*",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/images/sara.jpg",
+        "name": "",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/images/sara.jpg",
+        "name": "default",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "charSet": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "charSet",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "name": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "name",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "content": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "content",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "\"title\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"title\"",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "\"base\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"base\"",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "\"meta\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"meta\"",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "TODO(prateekbh@)": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "TODO(prateekbh@)",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "\"https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"https",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "here": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "here",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "https",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "reduceComponentsToState": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "reduceComponentsToState",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "headManager": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "headManager",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "inAmpMode": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "inAmpMode",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "value",
+        "chunks": [
+          "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./app/(default)/layout.tsx": {
       "*": {
         "id": "(sc_client)/./app/(default)/layout.tsx",
@@ -767,351 +991,15 @@
         ],
         "async": false
       }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./public/images/done.jpeg": {
-      "*": {
-        "id": "(sc_client)/./public/images/done.jpeg",
-        "name": "*",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/images/done.jpeg",
-        "name": "",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/images/done.jpeg",
-        "name": "default",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./public/images/goals.jpeg": {
-      "*": {
-        "id": "(sc_client)/./public/images/goals.jpeg",
-        "name": "*",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/images/goals.jpeg",
-        "name": "",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/images/goals.jpeg",
-        "name": "default",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./public/images/meeting.jpeg": {
-      "*": {
-        "id": "(sc_client)/./public/images/meeting.jpeg",
-        "name": "*",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/images/meeting.jpeg",
-        "name": "",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/images/meeting.jpeg",
-        "name": "default",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "defaultHead": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "defaultHead",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "charSet": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "charSet",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "name": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "name",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "content": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "content",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "\"title\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"title\"",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "\"base\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"base\"",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "\"meta\"": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"meta\"",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "TODO(prateekbh@)": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "TODO(prateekbh@)",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "\"https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "\"https",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "here": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "here",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "https": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "https",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "reduceComponentsToState": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "reduceComponentsToState",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "headManager": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "headManager",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "inAmpMode": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "inAmpMode",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      },
-      "value": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "value",
-        "chunks": [
-          "app/(default)/page:static/chunks/app/(default)/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/mobile-menu.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/mobile-menu.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/mobile-menu.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/mobile-menu.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "suspense": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "suspense",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "NoSSR": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "NoSSR",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/arsenio/Developer/MediaMinded/app/(default)/layout": [
-      "static/css/app/(default)/layout.css"
-    ],
     "/Users/arsenio/Developer/MediaMinded/app/layout": [
       "static/css/app/layout.css"
+    ],
+    "/Users/arsenio/Developer/MediaMinded/app/(default)/layout": [
+      "static/css/app/(default)/layout.css"
     ]
   },
   "clientModules": {
@@ -2811,6 +2699,411 @@
       ],
       "async": false
     },
+    "/Users/arsenio/Developer/MediaMinded/app/css/style.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Architects_Daughter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-architects-daughter\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"architects_daughter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\",\"display\":\"swap\"}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/arsenio/Developer/MediaMinded/components/ui/header.tsx": {
+      "id": "(app-client)/./components/ui/header.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/components/ui/header.tsx#": {
+      "id": "(app-client)/./components/ui/header.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/components/ui/header.tsx#default": {
+      "id": "(app-client)/./components/ui/header.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/public/images/sara.jpg": {
+      "id": "(app-client)/./public/images/sara.jpg",
+      "name": "*",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/public/images/sara.jpg#": {
+      "id": "(app-client)/./public/images/sara.jpg",
+      "name": "",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/public/images/sara.jpg#default": {
+      "id": "(app-client)/./public/images/sara.jpg",
+      "name": "default",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
+    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/(default)/interior-design/page:static/chunks/app/(default)/interior-design/page.js"
+      ],
+      "async": false
+    },
     "/Users/arsenio/Developer/MediaMinded/node_modules/aos/dist/aos.css#": {
       "id": "null",
       "name": "default",
@@ -2839,571 +3132,6 @@
       "name": "default",
       "chunks": [
         "app/(default)/layout:static/chunks/app/(default)/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/done.jpeg": {
-      "id": "(app-client)/./public/images/done.jpeg",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/done.jpeg#": {
-      "id": "(app-client)/./public/images/done.jpeg",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/done.jpeg#default": {
-      "id": "(app-client)/./public/images/done.jpeg",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/goals.jpeg": {
-      "id": "(app-client)/./public/images/goals.jpeg",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/goals.jpeg#": {
-      "id": "(app-client)/./public/images/goals.jpeg",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/goals.jpeg#default": {
-      "id": "(app-client)/./public/images/goals.jpeg",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/meeting.jpeg": {
-      "id": "(app-client)/./public/images/meeting.jpeg",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/meeting.jpeg#": {
-      "id": "(app-client)/./public/images/meeting.jpeg",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/public/images/meeting.jpeg#default": {
-      "id": "(app-client)/./public/images/meeting.jpeg",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/(default)/page:static/chunks/app/(default)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/app/css/style.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Architects_Daughter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-architects-daughter\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"architects_daughter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\",\"display\":\"swap\"}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/arsenio/Developer/MediaMinded/components/ui/mobile-menu.tsx": {
-      "id": "(app-client)/./components/ui/mobile-menu.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/components/ui/mobile-menu.tsx#": {
-      "id": "(app-client)/./components/ui/mobile-menu.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/components/ui/mobile-menu.tsx#default": {
-      "id": "(app-client)/./components/ui/mobile-menu.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js#suspense": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "suspense",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js#suspense": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "suspense",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js#NoSSR": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "NoSSR",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/arsenio/Developer/MediaMinded/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js#NoSSR": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "NoSSR",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     }
