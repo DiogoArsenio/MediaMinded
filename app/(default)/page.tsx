@@ -21,9 +21,9 @@ const Home: React.FC = () => {
           <div className="grid md:grid-cols-2 gap-8">
             {/* Left Side - Profile Info */}
             <div className="flex flex-col justify-center space-y-6 md:space-y-8">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-light text-gray-900 leading-tight animate-fadeIn">
+              <h1 className="text-5xl md:text-6xl lg:text-7xl font-thin text-gray-900 leading-tight animate-fadeIn">
                 Hi, I'm <span className="font-semibold">Sara Jacinto</span>,<br />
-                <span className="text-3xl md:text-4xl lg:text-5xl font-light text-gray-900 animate-fadeIn">
+                <span className="text-5xl md:text-6xl lg:text-7xl font-thin text-gray-900 leading-tight animate-fadeIn">
                   a designer specializing in graphic and interior design.
                 </span>
               </h1>
