@@ -73,6 +73,7 @@ const Home: React.FC = () => {
             {/* Graphic Design Skills */}
             <SkillItem skill="Adobe Photoshop" />
             <SkillItem skill="Adobe Illustrator" />
+            <SkillItem skill="Adobe InDesign" />
             <SkillItem skill="CorelDRAW" />
 
             {/* Interior Design Skills */}
